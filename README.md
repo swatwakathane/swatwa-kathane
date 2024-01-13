@@ -6,7 +6,7 @@ Software Developer and Tech Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [swatwakathane@gmail.com](mailto:swatwakathane@gmail.com)
-* 🧠  I'm learning Cloud Computing
+* 🧠  I'm learning Data Analytics
 
 <a href="https://www.github.com/swatwakathane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/swatwakathane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
